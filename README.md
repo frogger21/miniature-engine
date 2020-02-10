@@ -4,4 +4,4 @@ The **k-Nearest neighbor smoother** is a centered smoother to gauge the underlyi
 ![chart of simulated data with smoother](https://github.com/frogger21/miniature-engine/blob/master/kNNsmoothed.PNG)
 
 We can modify the smoother to become a **one-sided k-Nearest neighbor smoother**. The one sided version gives persistent bias to the upside or downside while the centered version is closer to the *truth*.
-![chart of one sided smoother](https://github.com/frogger21/miniature-engine/blob/master/onesided2.PNG)
+![chart of one sided smoother](https://github.com/frogger21/miniature-engine/blob/master/onesided3.PNG)
